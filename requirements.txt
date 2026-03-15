@@ -1,0 +1,1 @@
+faiss-cpu mwxml torch sentence-transformers torchvision transformers scikit-learn pandas numpy rank-bm25 pickle streamlit transformers accelerate huggingface_hub safetensors bitsandbytes ollama

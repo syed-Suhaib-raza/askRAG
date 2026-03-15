@@ -1,0 +1,146 @@
+# -----------------------------
+
+# Virtual Environments
+
+# -----------------------------
+
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------------
+
+# Project Data (Large / Generated)
+
+# -----------------------------
+
+data/
+processed_data/
+models/embedding_models/
+models/llm/
+
+# -----------------------------
+
+# Python Cache
+
+# -----------------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+
+# C Extensions
+
+# -----------------------------
+
+*.so
+
+# -----------------------------
+
+# Distribution / Packaging
+
+# -----------------------------
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# -----------------------------
+
+# PyInstaller
+
+# -----------------------------
+
+*.manifest
+*.spec
+
+# -----------------------------
+
+# Installer Logs
+
+# -----------------------------
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# -----------------------------
+
+# Unit Test / Coverage
+
+# -----------------------------
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# -----------------------------
+
+# Jupyter Notebook
+
+# -----------------------------
+
+.ipynb_checkpoints
+
+# -----------------------------
+
+# Environment Variables
+
+# -----------------------------
+
+.env
+.env.*
+
+# -----------------------------
+
+# Logs
+
+# -----------------------------
+
+logs/
+*.log
+
+# -----------------------------
+
+# IDEs / Editors
+
+# -----------------------------
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# -----------------------------
+
+# OS Files
+
+# -----------------------------
+
+.DS_Store
+Thumbs.db
